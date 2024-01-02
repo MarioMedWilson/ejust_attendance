@@ -1,0 +1,7 @@
+.env
+results
+ejust_attendance/__pycache__
+members/__pycache__
+members/migrations/__pycache__
+members/utils/__pycache__
+.DS_Store
