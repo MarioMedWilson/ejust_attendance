@@ -1,11 +1,9 @@
-base64
-PIL
-io
+pybase64
+pillow
 django
 firebase_admin
-dotenv
+python-dotenv
 imageio
-pickle
 pandas
 face_recognition
-cv2
+opencv-python
