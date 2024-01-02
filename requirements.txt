@@ -8,3 +8,4 @@ pandas
 face_recognition
 opencv-python
 dlib
+face-recognition-models
